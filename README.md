@@ -3,7 +3,7 @@
 
 
 <p float="center">
-  <img src="https://github.com/NightFall-Max/Evil-Eyes/blob/main/Banner.jpg" width="400" height="300" /> 
+  <img src="https://github.com/NightFall-Max/Termux-Banner/blob/main/Banner.jpg" width="400" height="300" /> 
 </p>
 
 ## Easy Installation :
