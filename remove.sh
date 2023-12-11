@@ -1,8 +1,8 @@
 folder_remove() {
 cd $HOME
-if [[ -e Termux-Banner ]]
+if [[ -e EvilEyes ]]
 then
-rm -rvf Termux-Banner
+rm -rvf EvilEyes
 fi
 }
 install() {
